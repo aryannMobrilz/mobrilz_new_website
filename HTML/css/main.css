@@ -5336,6 +5336,12 @@ body.elementor-editor-active [data-arts-os-animation] {
   z-index: 50;
 }
 
+.mani {
+  background-image: url(../projects/Styc/stylc.jpg);
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
 .section-masthead__background_fullscreen, .section-masthead__background_halfscreen {
   position: absolute;
   top: 0;
